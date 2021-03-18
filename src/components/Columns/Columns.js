@@ -2,7 +2,7 @@ import React from "react";
 import Collapse from "./../../providers/Collapse";
 import Auth from "./../../providers/Auth";
 
-const Columns = ({ isCollapsed, toggle, isAuthorized, toggleAuth }) => {
+const Columns = () => {
   return (
     <Collapse
       render={({ isCollapsed, toggle }) => (
