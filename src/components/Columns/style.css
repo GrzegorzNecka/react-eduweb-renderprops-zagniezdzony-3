@@ -1,0 +1,5 @@
+.is-Collapsed {
+  height: 0;
+  overflow: hidden;
+  background: red;
+}

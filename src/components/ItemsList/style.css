@@ -1,0 +1,9 @@
+.list {
+  margin-top: 50px;
+}
+
+.is-Collapsed {
+  height: 0;
+  overflow: hidden;
+  background: red;
+}
